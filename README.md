@@ -2,7 +2,7 @@
 
 ## Design
 
-![Razor Landing Page](https://github.com/dung170920/crypto-trading-landing-page/blob/main/crypto-trading-landing-page/src/assets/preview.png)
+![Crypto Trading Landing Page](https://github.com/dung170920/crypto-trading-landing-page/blob/main/crypto-trading-landing-page/src/assets/preview.jpg)
 
 [View on Dribble](https://dribbble.com/shots/20076776-Crypto-trading-home-page)
 
