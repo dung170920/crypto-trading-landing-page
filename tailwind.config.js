@@ -14,6 +14,9 @@ export default {
         pink: {
           200: "#fdc8e6",
         },
+        yellow: {
+          200: "#ffec8d",
+        },
         purple: {
           50: "#f8f7fd",
           500: "#855ed9",

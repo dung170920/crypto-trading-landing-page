@@ -35,7 +35,7 @@ export const Hero = () => {
       </nav>
 
       <div className="container grid grid-cols-12 pt-14 pb-24">
-        <h1 className="text-7xl col-span-8 font-bold leading-tight">
+        <h2 className="text-7xl col-span-8 font-bold leading-tight">
           <span className="inline-block">The best lightning</span>
           <span className="ml-36 inline-block">
             <span>crypto </span>
@@ -53,7 +53,7 @@ export const Hero = () => {
             </svg>
             <span> trading</span>
           </span>
-        </h1>
+        </h2>
         <div className="col-span-4 space-y-8 mx-12">
           <p className="font-josefin font-medium text-gray-600 text-xl tracking-wide">
             Trusted by milions since 2011 with over $1 Trillion in crypto transactions.

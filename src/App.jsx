@@ -1,4 +1,4 @@
-import { Action, BestWay, Chart, Hero, Products, Footer } from "./components";
+import { Institutional, BestWay, Chart, Hero, Products, Footer } from "./components";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <Chart />
       <Products />
       <BestWay />
-      <Action />
+      <Institutional />
       <Footer />
     </main>
   );

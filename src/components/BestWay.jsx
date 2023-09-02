@@ -4,7 +4,7 @@ import { BiLogoGoogle, BiLogoApple } from "react-icons/bi";
 export const BestWay = () => {
   return (
     <section className="container py-20">
-      <h1 className="text-7xl col-span-8 font-bold leading-tight mb-16">
+      <h2 className="text-7xl col-span-8 font-bold leading-tight mb-16">
         <span className="inline-block">
           <span>Best way to buy </span>
           <svg
@@ -37,7 +37,7 @@ export const BestWay = () => {
           </svg>
           <span> crypto</span>
         </span>
-      </h1>
+      </h2>
       <div className="flex gap-16">
         <div className="flex-1 h-[600px]">
           <img src={Phone} alt="" className="h-full mx-auto" />
